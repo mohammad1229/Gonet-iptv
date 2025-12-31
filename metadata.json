@@ -1,0 +1,8 @@
+{
+  "name": "GoNet IPTV",
+  "description": "A premium IPTV streaming application for Live TV, Movies, Series, and Radio with an integrated control dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
